@@ -7,6 +7,11 @@ A high-performance, real-time leaderboard application designed to handle instant
 - **Frontend Application:** [View Live App](https://redis-leaderboard-ten.vercel.app/)
 - **Backend API Service:** [View Backend API](https://redis-leaderboard.onrender.com)
 
+<p align="center">
+  <img src="./leaderboard.png" width="100%" alt="Redis Leaderboard Dashboard" />
+</p>
+
+
 ## 🎯 Problem Statement & Why Redis?
 
 In modern competitive gaming, live sports, and streaming platforms, dynamically recalculating user ranks using traditional relational databases like MySQL or PostgreSQL can become a performance bottleneck.
